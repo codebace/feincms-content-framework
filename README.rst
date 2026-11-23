@@ -72,13 +72,6 @@ That's it. Not even ten code lines for your own page content type.
 Getting started
 ===============
 
-Visit these sites
------------------
-
-* FeinCMS Website: http://www.feincms.org/
-* Read the documentation: https://feincms-django-cms.readthedocs.io/
-* See the Google Groups page at http://groups.google.com/group/django-feincms
-* FeinCMS on github: https://github.com/feincms/feincms/
 
 Repository branches
 -------------------
